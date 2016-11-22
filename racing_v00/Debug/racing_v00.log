@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\work\!_game_dev\millioner\recing_v00\racing_v00\racing_v00\main.cpp(205): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\work\!_game_dev\millioner\recing_v00\racing_v00\racing_v00\main.cpp(251): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\work\!_game_dev\millioner\recing_v00\racing_v00\racing_v00\main.cpp(311): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  racing_v00.vcxproj -> E:\Work\!_Game_dev\millioner\recing_v00\racing_v00\Debug\racing_v00.exe
+  racing_v00.vcxproj -> E:\Work\!_Game_dev\millioner\recing_v00\racing_v00\Debug\racing_v00.pdb (Full PDB)
